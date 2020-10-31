@@ -1,2 +1,2 @@
-# Trex
-Dinosaur running game
+# Trex-runner
+Dinosaur running game 1
